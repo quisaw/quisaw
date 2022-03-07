@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @quisaw.
+- 👀 I like to do things sometimes,
+- 🌱 I want to learn LUA and C++,
+- 📫 I currently don't have a business email, though one may be setup in the future.
